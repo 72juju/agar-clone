@@ -4,11 +4,11 @@
 
 This is a clone of agar.io. In this project we aim to acheive the following. 
 
-- [x] Hack main_out.js and make the variables and function names readable. Now most of the variable and function name should make sense. 
-- [x] Add uploading custom skins features (Done)
-- [x] Add [in-game chat](https://cloud.githubusercontent.com/assets/5158896/8327532/c41e94fa-1a9b-11e5-87cc-f42b5f6ef2df.png) feature. (Done)
-- [x] Add mobile device support (Done)
-- [ ] Support multi-server feature (On-going)
+- [x] [Done] Hack main_out.js and make the variables and function names readable. Now most of the variable and function name should make sense. 
+- [x] [Done] Add uploading custom skins features
+- [x] [Done] Add [in-game chat](https://cloud.githubusercontent.com/assets/5158896/8327532/c41e94fa-1a9b-11e5-87cc-f42b5f6ef2df.png) feature.
+- [x] [Done] Add mobile device support
+- [ ] (On-going) Support multi-server feature
 
 
 ##Setup
